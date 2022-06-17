@@ -1,0 +1,15 @@
+C:\Users\New\source\repos\FirmwareUpdate\bin\Debug\FirmwareUpdate.exe
+C:\Users\New\source\repos\FirmwareUpdate\bin\Debug\FirmwareUpdate.pdb
+C:\Users\New\source\repos\FirmwareUpdate\bin\Debug\FirmwareUpdate.xml
+C:\Users\New\source\repos\FirmwareUpdate\obj\Debug\FirmwareUpdate.Form1.resources
+C:\Users\New\source\repos\FirmwareUpdate\obj\Debug\FirmwareUpdate.Resources.resources
+C:\Users\New\source\repos\FirmwareUpdate\obj\Debug\FirmwareUpdate.vbproj.GenerateResource.cache
+C:\Users\New\source\repos\FirmwareUpdate\obj\Debug\FirmwareUpdate.vbproj.CoreCompileInputs.cache
+C:\Users\New\source\repos\FirmwareUpdate\obj\Debug\FirmwareUpdate.exe
+C:\Users\New\source\repos\FirmwareUpdate\obj\Debug\FirmwareUpdate.xml
+C:\Users\New\source\repos\FirmwareUpdate\obj\Debug\FirmwareUpdate.pdb
+C:\Users\New\source\repos\FirmwareUpdate\bin\Debug\FirmwareUpdate.exe.manifest
+C:\Users\New\source\repos\FirmwareUpdate\bin\Debug\FirmwareUpdate.application
+C:\Users\New\source\repos\FirmwareUpdate\obj\Debug\FirmwareUpdate.exe.manifest
+C:\Users\New\source\repos\FirmwareUpdate\obj\Debug\FirmwareUpdate.application
+C:\Users\New\source\repos\FirmwareUpdate\obj\Debug\FirmwareUpdate.vbproj.AssemblyReference.cache

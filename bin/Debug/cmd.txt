@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\Arduino\hardware\tools\avr/bin/<b>avrdude</b>" -"CC:\Program Files (x86)\Arduino\hardware\tools\avr/etc/avrdude.conf" -v -patmega328p -carduino -PCOM5 -b115200 -D -Uflash:w:C:\Users\New\AppData\Local\Temp\arduino_build_257245/sketch_apr07a.ino.hex:i 
